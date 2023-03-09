@@ -1,2 +1,2 @@
 # TrivialSolver
-Can solve trivial equations of any form.
+A trivial equation solver written in C++.
